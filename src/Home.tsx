@@ -440,7 +440,7 @@ function QuoteForm() {
               ) : (
                 <form onSubmit={handleSubmit} className="space-y-5 w-full">
                   {/* Web3Forms config — replace YOUR_ACCESS_KEY with key from web3forms.com */}
-                  <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY" />
+                  <input type="hidden" name="access_key" value="887f6f52-672e-41ae-a240-f5dd9ff38996" />
                   <input type="hidden" name="subject" value="New Quote Request - JLJ Commercial Cleaning" />
                   <input type="hidden" name="from_name" value="JLJ Cleaning Website" />
                   <input type="checkbox" name="botcheck" className="hidden" />
