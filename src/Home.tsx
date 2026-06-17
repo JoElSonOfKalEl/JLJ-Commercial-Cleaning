@@ -64,10 +64,10 @@ function Hero() {
               <span className="text-sm opacity-70">→</span>
             </a>
             <a
-              href="tel:+17869999999"
+              href="tel:+17867704110"
               className="inline-flex items-center gap-2 px-6 py-4 text-base font-medium text-white/90 hover:text-lime rounded-xl transition-colors duration-200"
             >
-              Or call (786) 999-9999
+              Or call (786) 770-4110
             </a>
           </div>
 
@@ -400,8 +400,8 @@ function QuoteForm() {
 
                 <div className="mt-8 space-y-4">
                   {[
-                    { icon: Phone, text: "(786) 999-9999", href: "tel:+17869999999" },
-                    { icon: Mail, text: "info@jljycleaning.com", href: "mailto:info@jljycleaning.com" },
+                    { icon: Phone, text: "(786) 770-4110", href: "tel:+17867704110" },
+                    { icon: Mail, text: "jljcommercialcleaning@gmail.com", href: "mailto:jljcommercialcleaning@gmail.com" },
                     { icon: MapPin, text: "Miami-Dade & Broward, FL" },
                   ].map((item) => (
                     <div key={item.text} className="flex items-start gap-3 justify-center lg:justify-start">

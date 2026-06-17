@@ -37,14 +37,18 @@ export default function Footer() {
             </p>
             <div className="flex items-center gap-3 mt-5">
               <a
-                href="#"
+                href="https://www.facebook.com/JLJCommercialCleaningServices"
+                target="_blank"
+                rel="noopener noreferrer"
                 aria-label="Facebook"
                 className="w-9 h-9 rounded-lg bg-white/10 flex items-center justify-center text-white/60 hover:bg-lime hover:text-navy transition-all duration-200"
               >
                 <FaFacebookF className="w-4 h-4" />
               </a>
               <a
-                href="#"
+                href="https://www.instagram.com/JLJCommercialCleaningServices"
+                target="_blank"
+                rel="noopener noreferrer"
                 aria-label="Instagram"
                 className="w-9 h-9 rounded-lg bg-white/10 flex items-center justify-center text-white/60 hover:bg-lime hover:text-navy transition-all duration-200"
               >
@@ -90,20 +94,20 @@ export default function Footer() {
             <ul className="space-y-4">
               <li>
                 <a
-                  href="tel:+17869999999"
+                  href="tel:+17867704110"
                   className="flex items-start gap-3 text-white/55 hover:text-lime text-sm transition-colors duration-200"
                 >
                   <Phone className="w-4 h-4 text-lime mt-0.5 flex-shrink-0" />
-                  <span>(786) 999-9999</span>
+                  <span>(786) 770-4110</span>
                 </a>
               </li>
               <li>
                 <a
-                  href="mailto:info@jljycleaning.com"
+                  href="mailto:jljcommercialcleaning@gmail.com"
                   className="flex items-start gap-3 text-white/55 hover:text-lime text-sm transition-colors duration-200"
                 >
                   <Mail className="w-4 h-4 text-lime mt-0.5 flex-shrink-0" />
-                  <span>info@jljycleaning.com</span>
+                  <span>jljcommercialcleaning@gmail.com</span>
                 </a>
               </li>
               <li className="flex items-start gap-3 text-white/55 text-sm">

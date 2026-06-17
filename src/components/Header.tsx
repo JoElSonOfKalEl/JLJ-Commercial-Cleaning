@@ -36,11 +36,11 @@ export default function Header() {
 
         <div className="hidden lg:flex items-center gap-3">
           <a
-            href="tel:+17869999999"
+            href="tel:+17867704110"
             className="flex items-center gap-1.5 text-sm text-white/90 hover:text-lime transition-colors"
           >
             <Phone className="w-4 h-4 text-lime" />
-            <span>(786) 999-9999</span>
+            <span>(786) 770-4110</span>
           </a>
           <a
             href="/#quote"
@@ -74,11 +74,11 @@ export default function Header() {
             ))}
             <div className="mt-3 pt-3 border-t border-white/10 flex flex-col gap-3">
               <a
-                href="tel:+17869999999"
+                href="tel:+17867704110"
                 className="flex items-center gap-2 px-3 py-2 text-sm text-white/80 hover:text-lime transition-colors"
               >
                 <Phone className="w-4 h-4 text-lime" />
-                (786) 999-9999
+                (786) 770-4110
               </a>
               <a
                 href="/#quote"
